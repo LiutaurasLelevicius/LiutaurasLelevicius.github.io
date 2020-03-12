@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: darkseagreen;
+}
+body {
+  background-color: lightblue;
+}
+.raudona {
+	color: red;
+}
+
+.storas {
+	font-weight: bold;
+}
+
+#id {
+  text-align: right;
+  color: grey;
+}

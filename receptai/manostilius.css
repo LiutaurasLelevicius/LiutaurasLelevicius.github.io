@@ -1,0 +1,47 @@
+h1 {
+  color: gray;
+}
+
+.antraste {
+  text-align: center;
+  background-color: #ffb366;
+  text-transform: uppercase;
+}
+
+.antraste2 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.antraste3 {
+  text-transform: uppercase;
+  background-color: gray;
+  text-align: left;
+}
+
+#id {
+  text-align: right;
+  color: orangered;
+}
+
+.fonas {
+  background-color: #ffd9b3;
+}
+
+.fonas2 {
+  background-color: #b3b3b3;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.antraste4 {
+  text-transform: uppercase;
+  background-color: orangered;
+  text-align: center;
+}
+
+.tekstas {
+  text-align: center;
+}
